@@ -4,6 +4,7 @@
 
 - A(CSS)
   -[Task #A1 - Grid](https://aaryan01.github.io/frontend-101/A/1.html)
+  <br>
   -[Task #A2 - Incomplete Grid](https://aaryan01.github.io/frontend-101/A/2.html)
   -[Task #A3 - Trippy Grid](https://aaryan01.github.io/frontend-101/A/3.html)
   -[Task #A4 - Nav Bar](https://aaryan01.github.io/frontend-101/A/4.html)
